@@ -1,0 +1,11 @@
+{
+    "name": "CartaApresentacao",
+    "alias": "cartaapresentacao",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CartaApresentacao\\app\\Providers\\CartaApresentacaoServiceProvider"
+    ],
+    "files": []
+}
