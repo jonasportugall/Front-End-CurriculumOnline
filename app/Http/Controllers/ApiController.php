@@ -11,6 +11,7 @@ class ApiController extends Controller
     public function getProvincies(){
         $response = Http::get(env('API_URL'). '/provincies');
         return $response;
+        
     }
 
     public function storeCurriculum(Request $request){
